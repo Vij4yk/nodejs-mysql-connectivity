@@ -4,7 +4,7 @@ var app = express();
 
 var connectionInfo = {
   host     : 'localhost',  // mysql server hostname 
-  user     : 'root',       // mysql database user name
+  user     : 'root',       // mysql database username
   password : 'root',       // mysql database password
   database : 'node_mysql'  // mysql database name
 }
