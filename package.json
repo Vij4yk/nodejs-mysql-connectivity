@@ -4,6 +4,7 @@
   "description": "NodeJs with mysql connectivity",
   "dependencies": {
     "express": "^4.13.1",
-    "mysql": "^2.8.0"
+    "mysql": "^2.8.0",
+    "nodeunit": "^0.9.1"
   }
 }
